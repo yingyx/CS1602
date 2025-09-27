@@ -12,10 +12,10 @@
   <p align="center">
     Intro to Computers & Programming · Shanghai Jiao Tong University
   </p>
-  <p align="center">
-    **&gt; English &lt;** | [简体中文](README.zh-cn.md)
-  </p>
+  **&gt; English &lt;** | [简体中文](README.zh-cn.md)
 </div>
+
+## Introduction
 
 The repository contains code for the labs and assignments from *Intro to Computers and Programming* (Autumn 2024), instructed by Prof. Hongfei Fu, Shanghai Jiao Tong University.
 

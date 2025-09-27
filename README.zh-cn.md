@@ -12,10 +12,10 @@
   <p align="center">
     计算导论 · 上海交通大学
   </p>
-  <p align="center">
-    [English](README.md) | **&gt; 简体中文 &lt;**
-  </p>
+  [English](README.md) | **&gt; 简体中文 &lt;**
 </div>
+
+## Introduction
 
 本仓库包含2024秋季学期上海交通大学符鸿飞老师授课的*计算导论*课程中的实验与作业的代码。
 
