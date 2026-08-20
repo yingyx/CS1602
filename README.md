@@ -18,6 +18,6 @@
 
 ## Introduction
 
-The repository contains code for the labs and assignments from *Intro to Computers and Programming* (Autumn 2024), instructed by Prof. Hongfei Fu, Shanghai Jiao Tong University.
+The repository contains code for the labs, assignments, and the group project from *Intro to Computers and Programming* (Autumn 2024), instructed by Prof. Hongfei Fu, Shanghai Jiao Tong University.
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
